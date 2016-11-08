@@ -38,8 +38,8 @@
         <maven.gpg.version>1.6</maven.gpg.version>
         <jdk.version>1.6</jdk.version>
         <junit.version>4.11</junit.version>
-        <regexodus.version>0.1.6</regexodus.version>
-        <sarong.version>0.2</sarong.version>
+        <regexodus.version>0.1.7</regexodus.version>
+        <sarong.version>0.3</sarong.version>
     </properties>
     <prerequisites>
         <maven>3.3.0</maven>
